@@ -1,0 +1,38 @@
+{
+  "name": "@petercjl/product-asset-set",
+  "version": "0.0.0",
+  "description": "Build reusable product reference image sets.",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercjl/product-asset-set.git"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "files": [
+    "skills",
+    "INSTALL.md",
+    "UPDATE.md",
+    "scripts/verify-package.mjs"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "agentPackage": {
+    "kind": "application-skill",
+    "skills": [
+      {
+        "name": "product-asset-set",
+        "path": "skills/product-asset-set"
+      }
+    ],
+    "installation": "host-managed-physical-copy",
+    "installGuide": "INSTALL.md",
+    "updateGuide": "UPDATE.md"
+  },
+  "scripts": {
+    "check": "node scripts/verify-package.mjs",
+    "prepack": "node scripts/verify-package.mjs"
+  }
+}
