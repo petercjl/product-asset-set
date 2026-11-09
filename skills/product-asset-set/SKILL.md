@@ -3,7 +3,7 @@ name: product-asset-set
 description: 从产品原图、使用场景或详情页制作可复用的独立高清产品参考图组，交付资产说明.txt，支持逐张验收、修订和定稿。
 metadata:
   package: "@petercjl/product-asset-set"
-  version: "0.1.2"
+  version: "0.1.3"
 ---
 
 # 产品资产生成

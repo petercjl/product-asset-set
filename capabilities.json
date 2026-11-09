@@ -2,7 +2,7 @@
   "ok": true,
   "schemaVersion": 1,
   "package": "@petercjl/product-asset-set",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "skills": [
     "product-asset-set"
   ],
