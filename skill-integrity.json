@@ -8,11 +8,11 @@
   "lib/cli.mjs": "f25d170ba55b703b3bdf476e0621c74a30eec75a246d34b9b490367c05aae07b",
   "lib/core.mjs": "339dfcd79abebca4a776e8a6e8b907d6e6ce4a027dc3a4808596d5e9cd797260",
   "package.json": "4846c15d5d8700c4abe0cc404c1b85e7444de7e2d3e23613912b71f2fdf34f5a",
-  "skills/product-asset-set/SKILL.md": "8de7a640e9381e4215723c555411379cea3e5224d145ee20048de0842be1f981",
+  "skills/product-asset-set/SKILL.md": "162f7f70d0d801f14dc4b829e66ebbb2c5601e445ef6a8843ae7f66b8ef993c3",
   "skills/product-asset-set/adapters/generic.json": "38258c58db4b17105b1018c7aab9e00e59a372267f525005ddc2027f735e123a",
   "skills/product-asset-set/agents/openai.yaml": "67bd446b7e2b81468af6cf5d968c7130f8f045161604223913ac0b32ddf94f77",
   "skills/product-asset-set/capabilities.json": "81f067f1d6e070bd9cde5cbf2ae2283bf36eaf6f46ec9204d9982e4e3ca4d100",
   "skills/product-asset-set/package.json": "682d712ad9da337679e37344f70bdb23e2952f0773ed18c2c2629e4a132b15c4",
-  "skills/product-asset-set/references/asset-format.md": "0719d9457ed59418e578925c16cc27bee38d10d4b1161cb5dd94293bd591c9d4",
+  "skills/product-asset-set/references/asset-format.md": "ddb1719d4ea868346d14ac8ce024ce5803ee8f27db48d3e9eeccdf788e4ba7fa",
   "skills/product-asset-set/scripts/asset-guide.mjs": "412e4827b09def5e8532be566173029e36f36e00783739551c1eeb7a9404f555"
 }
